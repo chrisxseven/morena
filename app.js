@@ -18,7 +18,7 @@ function calculateTimeTogether(startDate) {
     const minutes = Math.floor(seconds / 60);
     const hours = Math.floor(minutes / 60);
     const days = Math.floor(hours / 24);
-    const months = Math.floor(days / 30.436875); // Média de dias em um mês
+    const months = Math.floor(days / 30.436875); // Média de dias em um mês         
     const years = Math.floor(months / 12);
 
     const remainingMonths = months % 12;
