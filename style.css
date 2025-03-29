@@ -18,8 +18,10 @@ body {
     margin-top: 3%;
 }
 
-.h1{
-
+.h1music2{
+   
+    justify-content: center;
+    align-items: center;
 
 
 
@@ -177,7 +179,7 @@ margin-left: 0%;
     font-family:"Lovers Quarrel", cursive;
         font-weight: 400;
         font-style: normal;
-    font-size: 140%;
+    font-size: 200%;
     margin-left: 0%;
     margin-bottom: 3%;
 }
