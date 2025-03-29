@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+}
 body {
     background-color: #FFCBCB;
     margin: 0;
@@ -18,14 +22,6 @@ body {
     margin-top: 3%;
 }
 
-.h1music2{
-   
-    justify-content: center;
-    align-items: center;
-
-
-
-}
 
 .div1 {
     margin-top: 5%;
@@ -149,6 +145,24 @@ body {
     margin-bottom: 2%;
 }
 
+.h1music2 {
+    font-family:"Lovers Quarrel", cursive;
+        font-weight: 400;
+        font-style: normal;
+    font-size: 400%;
+    margin-left: 0%;
+    margin-bottom: -72px;
+}
+
+.h1music3 {
+    font-family:"Lovers Quarrel", cursive;
+    font-weight: 400;
+    font-style: normal;
+font-size: 400%;
+margin-left: 0%;
+margin-top: 70px;
+}
+
 .h1dani {
     font-family:"Lovers Quarrel", cursive;
     font-weight: 400;
@@ -163,7 +177,8 @@ margin-bottom: 2%;
         font-weight: 400;
         font-style: normal;
     font-size: 300%;
-    margin-left: 20%;
+    margin-left: 15px;
+    margin-top: 50px;
 }
 
 .htime {
@@ -179,13 +194,13 @@ margin-left: 0%;
     font-family:"Lovers Quarrel", cursive;
         font-weight: 400;
         font-style: normal;
-    font-size: 200%;
+    font-size: 150%;
     margin-left: 0%;
     margin-bottom: 3%;
 }
 
 .audio {
-    margin-left: 20%;
+    margin-left: 15px;
     margin-top: 5px;
     margin-bottom: 5%;
 }
@@ -210,7 +225,7 @@ margin-left: 0%;
     font-style: normal;
     font-size: 200%;
     text-decoration: none;
-    background-color: #fbc3c3;
+    background-color: #ee4c85;
     color: #000000;
     border-radius: 10px;
     padding: 2%;
